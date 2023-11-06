@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ivobarbato
 - 👀 I’m interested in learn new languages and continue studying software development
 - 🌱 I’m currently learning C++ & Python
+- (╯°□°）╯︵ ┻━┻
